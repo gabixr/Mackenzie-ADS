@@ -108,7 +108,6 @@ npm run preview
 ---
 
 ## Versões
-
 | Tag | Descrição |
 |-----|-----------|
 | v2  |  Iteração 2 da Fase de Construção |
